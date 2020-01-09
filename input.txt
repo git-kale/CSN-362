@@ -1,0 +1,7 @@
+Hello World
+
+C++ k m rpppp
+
+//bad code
+/* bad code ...........
+ Bade Code */
